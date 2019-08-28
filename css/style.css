@@ -117,8 +117,16 @@ footer h5, footer p{
     .display-4{
         font-size: 200% !important;
     }
-    social a{
+    .social a{
         font-size: 2.5em;
         padding: 1.2em;
+    }
+}
+@media (max-width :568px){
+    .carousel-item img{
+        height: 35vh !important;
+    }
+    .carousel-caption h1{
+        font-size: 200% !important;
     }
 }
