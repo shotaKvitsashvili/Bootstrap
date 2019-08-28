@@ -129,6 +129,6 @@ footer h5, footer p{
     .carousel-caption h1{
         font-size: 200% !important;
     }
-    .carousel-caption .btn{
-        margin-bottom: 10px;
+   .carousel-caption{
+       top: 20%;
 }
